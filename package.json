@@ -1,13 +1,10 @@
 {
   "name": "auth",
   "version": "1.0.0",
-  "description": "",
-  "main": "",
   "scripts": {
     "start": "nodemon index.js"
   },
-  "author": {},
-  "license": "",
+  "license": "MIT",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "dotenv": "^8.2.0",
